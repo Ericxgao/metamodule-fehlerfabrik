@@ -1,0 +1,6 @@
+[submodule "FreeSurface"]
+	path = FreeSurface
+	url = https://github.com/Ericxgao/FreeSurface
+[submodule "FehlerFabrik"]
+	path = FehlerFabrik
+	url = https://github.com/Ericxgao/FehlerFabrik
