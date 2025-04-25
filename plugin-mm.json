@@ -4,59 +4,57 @@
     "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-fehlerfabrik",
     "MetaModuleDescription": "FehlerFabrik for MetaModule",
     "MetaModuleIncludedModules": [
-        [
-            {
-                "slug": "PSIOP",
-                "name": "PSI OP"
-            },
-            {
-                "slug": "Planck",
-                "name": "Planck"
-            },
-            {
-                "slug": "Luigi",
-                "name": "Luigi"
-            },
-            {
-                "slug": "Aspect",
-                "name": "Aspect"
-            },
-            {
-                "slug": "Monte",
-                "name": "Monte"
-            },
-            {
-                "slug": "Arpanet",
-                "name": "Arpanet"
-            },
-            {
-                "slug": "Sigma",
-                "name": "Sigma"
-            },
-            {
-                "slug": "Fax",
-                "name": "Fax"
-            },
-            {
-                "slug": "Rasoir",
-                "name": "Rasoir"
-            },
-            {
-                "slug": "Chi",
-                "name": "Chi"
-            },
-            {
-                "slug": "Nova",
-                "name": "Nova"
-            },
-            {
-                "slug": "Lilt",
-                "name": "Lilt"
-            },
-            {
-                "slug": "Botzinger",
-                "name": "Botzinger"
-            }
-        ]
+        {
+            "slug": "PSIOP",
+            "name": "PSI OP"
+        },
+        {
+            "slug": "Planck",
+            "name": "Planck"
+        },
+        {
+            "slug": "Luigi",
+            "name": "Luigi"
+        },
+        {
+            "slug": "Aspect",
+            "name": "Aspect"
+        },
+        {
+            "slug": "Monte",
+            "name": "Monte"
+        },
+        {
+            "slug": "Arpanet",
+            "name": "Arpanet"
+        },
+        {
+            "slug": "Sigma",
+            "name": "Sigma"
+        },
+        {
+            "slug": "Fax",
+            "name": "Fax"
+        },
+        {
+            "slug": "Rasoir",
+            "name": "Rasoir"
+        },
+        {
+            "slug": "Chi",
+            "name": "Chi"
+        },
+        {
+            "slug": "Nova",
+            "name": "Nova"
+        },
+        {
+            "slug": "Lilt",
+            "name": "Lilt"
+        },
+        {
+            "slug": "Botzinger",
+            "name": "Botzinger"
+        }
     ]
 }
